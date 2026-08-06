@@ -1,0 +1,24 @@
+body {
+    background: beige;
+    margin: auto;
+}
+
+.board {
+    border: 5px solid brown;
+    background: burlywood;
+    display: block;
+    text-align: center;
+    width: 450px;
+    margin: 16px auto;
+    box-sizing: content-box;
+    padding-bottom: 50px;
+}
+
+.title {
+    margin: 20px;
+}
+
+.recipeList {
+    display: inline-block;
+    text-align: left;
+}
